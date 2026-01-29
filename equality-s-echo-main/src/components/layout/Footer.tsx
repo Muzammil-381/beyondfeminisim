@@ -55,7 +55,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-primary-foreground/20 mt-8 pt-8 text-center text-sm text-primary-foreground/60">
-          <p>© {new Date().getFullYear()} Equality or Bias? Campaign. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Laiba Nazeer. All rights reserved.</p>
         </div>
       </div>
     </footer>
